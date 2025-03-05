@@ -44,7 +44,7 @@ For any queries or collaborations, feel free to reach out!
 
 - **Email:** jasperchandu1007@gmail.com
 - **LinkedIn:** [Namala Jasper](https://www.linkedin.com/in/namala-jasper/)
-- **GitHub:** [Jasper1007J] (https://github.com/Jasper1007J)
+- **GitHub:** [Jasper1007J](https://github.com/Jasper1007J)
 
 ---
 🚀 Happy Learning & Coding! 🎯
