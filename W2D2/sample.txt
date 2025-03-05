@@ -1,0 +1,15 @@
+line 1: Python 
+Line 2 : Javascript 
+Line 3: Java
+line 4: File handling 
+Line 5 : Error handling 
+Line 6: Exception Handling
+Line 7: Directory  
+Line 8: Lists 
+Line 9: Files
+Line 7: Directory  
+Line 8: Lists 
+Line 9: FilesAsus ROG Strix G15 
+Realme 6 Pro 
+OnePlus 11R 5G 
+Samsung S25 Plus
